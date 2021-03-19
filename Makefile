@@ -8,4 +8,4 @@ lint:
 	
 test:
 
-all: install lint
+all: install 
